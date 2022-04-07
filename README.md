@@ -18,9 +18,15 @@ Web developer working with JavaScript technologies to build high-quality and use
 ![notion](https://user-images.githubusercontent.com/61513120/162324813-21c14a06-87b8-4985-8d7a-2e047e98a21e.svg)
 
 - 🔭 I’m currently working on Jinder, web app to search jobs and post jobs
-- 🌱 I’m currently learning [React Query] (https://react-query.tanstack.com/)
+- 🌱 I’m currently learning [React Query](https://react-query.tanstack.com/)
 - 💬 Ask me about Pixar movies
 - ⚡ Fun fact: I do my own gin ⚗️🍹
+
+Some stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenplanas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenplanas)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **karenplanas/karenplanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
