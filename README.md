@@ -19,7 +19,7 @@ Web developer working with JavaScript technologies to build high-quality and use
 
 - 🔭 I’m currently working on Jinder, web app to search jobs and post jobs
 - 🌱 I’m currently learning [React Query](https://react-query.tanstack.com/)
-- 💬 Ask me about Pixar movies
+- 💬 Lets talk about Pixar movies 💙
 - ⚡ Fun fact: I do my own gin ⚗️🍹
 
 Some stats :
